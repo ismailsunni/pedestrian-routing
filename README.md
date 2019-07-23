@@ -9,8 +9,8 @@ Shortest Distance (A*) with landmarks |  Least Angular Change and Landmark using
 
 1. [Landmark Extraction](https://github.com/ismailsunni/routing-with-landmark/blob/master/landmark-extraction.py)
 2. [Shortest Distance (A*) with landmarks](https://github.com/ismailsunni/routing-with-landmark)
-3. [Least Angular Change and Landmark using Djikstra](github.com)
-4. [Comparison metric](github.com)
+3. [Least Angular Change and Landmark using Djikstra](https://github.com/bkari02/PedestrianRoutingAlgorithms)
+4. [Hausdorff Distance metric](https://github.com/tinabaidar13/Pedestrian_Routing)
 
 ## Team Members
 
