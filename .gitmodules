@@ -1,0 +1,9 @@
+[submodule "PedestrianRoutingAlgorithms"]
+	path = PedestrianRoutingAlgorithms
+	url = https://github.com/bkari02/PedestrianRoutingAlgorithms.git
+[submodule "Pedestrian_Routing"]
+	path = Pedestrian_Routing
+	url = https://github.com/tinabaidar13/Pedestrian_Routing.git
+[submodule "routing-with-landmark"]
+	path = routing-with-landmark
+	url = https://github.com/ismailsunni/routing-with-landmark.git
